@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-freesia&count_private=true&show_icons=true&layout=compact&theme=gruvbox&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DIndusy&longCache=true&style=for-the-badge)](https://github.com/the-freesia?tab=followers)
